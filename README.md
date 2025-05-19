@@ -1,0 +1,1 @@
+STEMpact is a half-day program/workshop designed to show highschool students how to incorporate programming and machine learning into data visualization. Here you will find the Google Colab content for the practice excercise.
